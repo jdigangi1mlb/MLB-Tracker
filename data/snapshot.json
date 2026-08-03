@@ -39,6 +39,24 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "SD",
+        "acquired": "LHP Robbie Ray"
+      },
+      "b": {
+        "team": "SF",
+        "acquired": "RHP Miguel Mendez, IF Joniel Hernandez"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "TOR",
         "acquired": "RHP José Soriano"
       },
@@ -63,24 +81,6 @@
       "b": {
         "team": "LAA",
         "acquired": "C Jacob Cozart"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "SD",
-        "acquired": "LHP Robbie Ray"
-      },
-      "b": {
-        "team": "SF",
-        "acquired": "RHP Miguel Mendez, IF Joniel Hernandez"
       },
       "status": "VERIFIED",
       "sources": [
@@ -134,7 +134,43 @@
       },
       "b": {
         "team": "NYM",
-        "acquired": "SS Sammy Stafura •"
+        "acquired": "SS Sammy Stafura"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIL",
+        "acquired": "RHP Dustin May, LHP JoJo Romero"
+      },
+      "b": {
+        "team": "STL",
+        "acquired": "OF Alexander Frias, OF Carson Ragsdale -- Source"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CHC",
+        "acquired": "LHP Braxton Garrett"
+      },
+      "b": {
+        "team": "MIA",
+        "acquired": "1B/OF Jonathon Long, RHP Jace Beck •"
       },
       "status": "VERIFIED",
       "sources": [
@@ -188,7 +224,25 @@
       },
       "b": {
         "team": "NYM",
-        "acquired": "RHP Luke Gabrysh, OF John Spikerman •"
+        "acquired": "RHP Luke Gabrysh, OF John Spikerman"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CHC",
+        "acquired": "RHP Ryan Zeferjahn"
+      },
+      "b": {
+        "team": "LAA",
+        "acquired": "TBD"
       },
       "status": "VERIFIED",
       "sources": [
@@ -467,58 +521,7 @@
       ],
       "reporter": "",
       "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "CHC",
-        "acquired": "RHP Ryan Zeferjahn"
-      },
-      "b": {
-        "team": "LAA",
-        "acquired": "C Moises Ballesteros, RHP Mason McGwire"
-      },
-      "status": "UNVERIFIED - CBS ONLY",
-      "sources": [
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "MIL",
-        "acquired": "RHP Dustin May, LHP JoJo Romero"
-      },
-      "b": {
-        "team": "STL",
-        "acquired": "OF Alexander Frías, OF Josiah Ragsdale"
-      },
-      "status": "UNVERIFIED - CBS ONLY",
-      "sources": [
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "CHC",
-        "acquired": "LHP Braxton Garrett"
-      },
-      "b": {
-        "team": "MIA",
-        "acquired": "1B Jonathon Long, RHP Jace Beck"
-      },
-      "status": "UNVERIFIED - CBS ONLY",
-      "sources": [
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T15:10:14.139273-05:00"
+  "updated_at_ct": "2026-08-03T15:20:19.963860-05:00"
 }
