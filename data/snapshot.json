@@ -597,6 +597,23 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "BOS",
+        "acquired": "OF Eli White"
+      },
+      "b": {
+        "team": "ATL",
+        "acquired": "RHP Tyler Uberstine"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "TB",
         "acquired": "RHP Tyler Wells"
       },
@@ -612,5 +629,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T16:10:18.189460-05:00"
+  "updated_at_ct": "2026-08-03T16:20:15.134874-05:00"
 }
