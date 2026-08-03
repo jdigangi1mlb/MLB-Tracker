@@ -164,6 +164,23 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "CLE",
+        "acquired": "LHP Foster Griffin"
+      },
+      "b": {
+        "team": "WSH",
+        "acquired": "LHP Josh Hartle, LHP Will Dion, RHP Kendeglys Virguez, OF Nick Mitchell"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "PIT",
         "acquired": "RHP Luke Weaver"
       },
@@ -704,6 +721,23 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "ARI",
+        "acquired": "OF Lars Nootbaar"
+      },
+      "b": {
+        "team": "STL",
+        "acquired": ""
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "WSH",
         "acquired": "RHP Joe Glassey"
       },
@@ -719,5 +753,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T16:50:20.691721-05:00"
+  "updated_at_ct": "2026-08-03T17:00:14.703340-05:00"
 }
