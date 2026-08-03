@@ -467,7 +467,41 @@
       ],
       "reporter": "",
       "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIL",
+        "acquired": "RHP Dustin May, LHP JoJo Romero"
+      },
+      "b": {
+        "team": "STL",
+        "acquired": ""
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CHC",
+        "acquired": "LHP Braxton Garrett"
+      },
+      "b": {
+        "team": "MIA",
+        "acquired": "1B Jonathon Long, RHP Jace Beck"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T14:26:58.674115-05:00"
+  "updated_at_ct": "2026-08-03T14:30:14.188766-05:00"
 }
