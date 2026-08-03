@@ -309,6 +309,24 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "CWS",
+        "acquired": "C Joey Bart"
+      },
+      "b": {
+        "team": "ATL",
+        "acquired": "RHP Duncan Davitt"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "ATL",
         "acquired": "LHP Brent Suter"
       },
@@ -579,23 +597,6 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "CWS",
-        "acquired": "C Joey Bart"
-      },
-      "b": {
-        "team": "ATL",
-        "acquired": "RHP Duncan Davitt"
-      },
-      "status": "UNVERIFIED - CBS ONLY",
-      "sources": [
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
         "team": "TB",
         "acquired": "RHP Tyler Wells"
       },
@@ -611,5 +612,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T16:00:18.722545-05:00"
+  "updated_at_ct": "2026-08-03T16:10:18.189460-05:00"
 }
