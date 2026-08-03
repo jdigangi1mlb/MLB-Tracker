@@ -1,6 +1,6 @@
 # MLB trade tracker changed
 
-Detected 29 trades from July 31 forward.
+Detected 30 trades from July 31 forward.
 
 ## New or changed entries
-- Aug. 3: CHC / LAA — VERIFIED
+- Aug. 3: HOU / TOR — UNVERIFIED - CBS ONLY
