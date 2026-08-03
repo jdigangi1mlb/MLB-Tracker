@@ -98,7 +98,7 @@
       },
       "b": {
         "team": "SF",
-        "acquired": "LHP Henry LaLane, SS Kaeden Kent"
+        "acquired": "LHP Henry Lalane, SS Kaeden Kent"
       },
       "status": "UNVERIFIED - MLB ONLY",
       "sources": [
@@ -151,7 +151,7 @@
       },
       "b": {
         "team": "NYM",
-        "acquired": "3B/SS Jefferson Rojas"
+        "acquired": "3B/SS Jefferson Rojas •"
       },
       "status": "VERIFIED",
       "sources": [
@@ -258,7 +258,7 @@
       },
       "b": {
         "team": "STL",
-        "acquired": "OF Alexander Frias, OF Carson Ragsdale"
+        "acquired": "OF Alexander Frias, OF Josiah Ragsdale"
       },
       "status": "VERIFIED",
       "sources": [
@@ -516,6 +516,23 @@
       "sources": [
         "MLB.com",
         "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "STL",
+        "acquired": "LHP Caleb Ferguson"
+      },
+      "b": {
+        "team": "CIN",
+        "acquired": "international bonus pool money"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
       ],
       "reporter": "",
       "winner": ""
@@ -877,5 +894,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T17:33:19.059402-05:00"
+  "updated_at_ct": "2026-08-03T17:40:13.590385-05:00"
 }
