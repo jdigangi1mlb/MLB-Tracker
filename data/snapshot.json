@@ -111,7 +111,7 @@
       "date": "Aug. 3",
       "a": {
         "team": "STL",
-        "acquired": "TBD"
+        "acquired": "RHP Daniel Eagen, LHP Sandro Santana and player to be named later"
       },
       "b": {
         "team": "CLE",
@@ -525,6 +525,40 @@
         "acquired": "international bonus pool money"
       },
       "b": {
+        "team": "SD",
+        "acquired": "RHP Hunter Stratton"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "PIT",
+        "acquired": "RHP Andrew Moore •"
+      },
+      "b": {
+        "team": "BAL",
+        "acquired": "OF Rece Hinds"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIA",
+        "acquired": "cash considerations"
+      },
+      "b": {
         "team": "ATL",
         "acquired": "LHP Brent Suter"
       },
@@ -592,6 +626,23 @@
       "a": {
         "team": "CLE",
         "acquired": "cash considerations"
+      },
+      "b": {
+        "team": "BAL",
+        "acquired": "RHP Codi Heuer"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIL",
+        "acquired": "cash considations"
       },
       "b": {
         "team": "PHI",
@@ -849,6 +900,23 @@
       "status": "VERIFIED",
       "sources": [
         "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "SD",
+        "acquired": "RHP Hunter Stratton"
+      },
+      "b": {
+        "team": "PIT",
+        "acquired": "RHP Andrew Moore"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
         "CBS Sports"
       ],
       "reporter": "",
@@ -1314,5 +1382,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T18:00:22.658647-05:00"
+  "updated_at_ct": "2026-08-03T18:10:15.902363-05:00"
 }
