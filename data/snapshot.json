@@ -3,6 +3,24 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "BOS",
+        "acquired": "C Adley Rutschman, C Jake Rogers"
+      },
+      "b": {
+        "team": "BAL",
+        "acquired": "C Carlos Narváez, RHP Anthony Eyanson, RHP Kyson Witherspoon OF Enddy Azocar, Player to be named later"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "PHI",
         "acquired": "IF Luis Arraez, RHP Caleb Kilian"
       },
@@ -57,16 +75,17 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "CLE",
+        "team": "SD",
         "acquired": "LHP Robbie Ray"
       },
       "b": {
-        "team": "LAA",
+        "team": "SF",
         "acquired": "RHP Miguel Mendez, IF Joniel Hernandez"
       },
-      "status": "UNVERIFIED - MLB ONLY",
+      "status": "VERIFIED",
       "sources": [
-        "MLB.com"
+        "MLB.com",
+        "CBS Sports"
       ],
       "reporter": "",
       "winner": ""
@@ -98,6 +117,24 @@
       "b": {
         "team": "MIA",
         "acquired": "IF Brayden Taylor, RHP Jacob Kisting, IF Adrian Santana"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "PIT",
+        "acquired": "RHP Luke Weaver"
+      },
+      "b": {
+        "team": "NYM",
+        "acquired": "SS Sammy Stafura •"
       },
       "status": "VERIFIED",
       "sources": [
@@ -430,24 +467,7 @@
       ],
       "reporter": "",
       "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "SD",
-        "acquired": "LHP Robbie Ray"
-      },
-      "b": {
-        "team": "SF",
-        "acquired": "RHP Miguel Mendez, SS Joniel Hernandez"
-      },
-      "status": "UNVERIFIED - CBS ONLY",
-      "sources": [
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T13:46:29.982934-05:00"
+  "updated_at_ct": "2026-08-03T14:26:58.674115-05:00"
 }
