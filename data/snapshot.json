@@ -366,7 +366,7 @@
       },
       "b": {
         "team": "LAA",
-        "acquired": "C/DH Moisés Ballesteros, RHP Mason McGwire •"
+        "acquired": "C/DH Moisés Ballesteros, RHP Mason McGwire"
       },
       "status": "VERIFIED",
       "sources": [
@@ -379,8 +379,25 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "MIA",
+        "acquired": "RHP Victor Vodnik"
+      },
+      "b": {
+        "team": "COL",
+        "acquired": "IF Connor Norby, RHP Aiden May"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "TOR",
-        "acquired": "INF Josh Smith, RHP Josh Stephan •"
+        "acquired": "IF Josh Smith, RHP Josh Stephan •"
       },
       "b": {
         "team": "TEX",
@@ -753,5 +770,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T17:00:14.703340-05:00"
+  "updated_at_ct": "2026-08-03T17:10:13.848366-05:00"
 }
