@@ -300,7 +300,7 @@
       "date": "Aug. 3",
       "a": {
         "team": "BOS",
-        "acquired": "LHP Erik Miller"
+        "acquired": "LHP Erik Miller , OF Carlos Gutierrez"
       },
       "b": {
         "team": "CHC",
@@ -419,7 +419,7 @@
       "date": "Aug. 3",
       "a": {
         "team": "COL",
-        "acquired": "IF Connor Norby, RHP Aiden May"
+        "acquired": "IF Connor Norby, RHP Aiden May •"
       },
       "b": {
         "team": "TOR",
@@ -576,8 +576,25 @@
         "acquired": "INF Nacho Alvarez Jr."
       },
       "b": {
+        "team": "PIT",
+        "acquired": "RHP Lake Bachar"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIA",
+        "acquired": "RHP Brandan Bidois, SS Hyun Seung Lee; OF Brian Sanchez"
+      },
+      "b": {
         "team": "LAD",
-        "acquired": "C Hunter Feduccia"
+        "acquired": "C Hunter Feduccia, RHP Jacob Kmatz"
       },
       "status": "UNVERIFIED - MLB ONLY",
       "sources": [
@@ -590,16 +607,15 @@
       "date": "Aug. 3",
       "a": {
         "team": "TB",
-        "acquired": "OF Jack Suwinski"
+        "acquired": "OF Jack Suwinski, international bonus pool money"
       },
       "b": {
         "team": "LAD",
         "acquired": "C Ben Rortvedt"
       },
-      "status": "VERIFIED",
+      "status": "UNVERIFIED - MLB ONLY",
       "sources": [
-        "MLB.com",
-        "CBS Sports"
+        "MLB.com"
       ],
       "reporter": "",
       "winner": ""
@@ -642,7 +658,7 @@
       "date": "Aug. 3",
       "a": {
         "team": "MIL",
-        "acquired": "cash considations"
+        "acquired": "cash considerations"
       },
       "b": {
         "team": "PHI",
@@ -948,6 +964,23 @@
       "b": {
         "team": "CIN",
         "acquired": "international cap space"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "LAD",
+        "acquired": "C Hunter Feduccia, RHP Jacob Kmatz"
+      },
+      "b": {
+        "team": "TB",
+        "acquired": "OF Jack Suwinski"
       },
       "status": "UNVERIFIED - CBS ONLY",
       "sources": [
@@ -1399,5 +1432,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T18:20:14.744626-05:00"
+  "updated_at_ct": "2026-08-03T18:30:20.135240-05:00"
 }
