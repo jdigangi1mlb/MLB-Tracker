@@ -2,8 +2,8 @@ name: Update MLB Trade Tracker
 
 on:
   schedule:
-    # Runs at minutes 0, 10, 20, 30, 40, 50
-    - cron: "*/10 * * * *"
+    # Runs at minutes 3, 13, 23, 33, 43, 53
+    - cron: "3,13,23,33,43,53 * * * *"
   workflow_dispatch:
 
 permissions:
