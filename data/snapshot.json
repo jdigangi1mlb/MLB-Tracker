@@ -111,6 +111,24 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "CHC",
+        "acquired": "RHP Clay Holmes, OF Tyrone Taylor •"
+      },
+      "b": {
+        "team": "NYM",
+        "acquired": "3B/SS Jefferson Rojas"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "TB",
         "acquired": "C/1B Liam Hicks •"
       },
@@ -153,6 +171,24 @@
       "b": {
         "team": "STL",
         "acquired": "OF Alexander Frias, OF Carson Ragsdale -- Source"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "HOU",
+        "acquired": "OF Daulton Varsho"
+      },
+      "b": {
+        "team": "TOR",
+        "acquired": "RHP Spencer Arrighetti"
       },
       "status": "VERIFIED",
       "sources": [
@@ -297,6 +333,24 @@
       "b": {
         "team": "NYM",
         "acquired": "RHP Chayce McDermott"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "KC",
+        "acquired": "RHP Nolan Hoffman"
+      },
+      "b": {
+        "team": "PHI",
+        "acquired": "RHP Manuel Colón"
       },
       "status": "VERIFIED",
       "sources": [
@@ -525,12 +579,12 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "KC",
-        "acquired": "RHP Nolan Hoffman"
+        "team": "CWS",
+        "acquired": "C Joey Bart"
       },
       "b": {
-        "team": "PHI",
-        "acquired": "RHP Manuel Colón"
+        "team": "ATL",
+        "acquired": "RHP Duncan Davitt"
       },
       "status": "UNVERIFIED - CBS ONLY",
       "sources": [
@@ -542,12 +596,12 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "HOU",
-        "acquired": "OF Daulton Varsho"
+        "team": "TB",
+        "acquired": "RHP Tyler Wells"
       },
       "b": {
-        "team": "TOR",
-        "acquired": "RHP Spencer Arrighetti"
+        "team": "BAL",
+        "acquired": "RHP Michael Forret"
       },
       "status": "UNVERIFIED - CBS ONLY",
       "sources": [
@@ -557,5 +611,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T15:50:15.606454-05:00"
+  "updated_at_ct": "2026-08-03T16:00:18.722545-05:00"
 }
