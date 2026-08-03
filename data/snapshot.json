@@ -1,0 +1,191 @@
+{
+  "updated_at_ct": "2026-08-02T21:56:00-05:00",
+  "trades": [
+    {
+      "date": "Aug. 2",
+      "a": {
+        "team": "ATL",
+        "acquired": "RHP Taylor Mahle"
+      },
+      "b": {
+        "team": "SF",
+        "acquired": "RHP Anthony Molina"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": ""
+    },
+    {
+      "date": "Aug. 2",
+      "a": {
+        "team": "CHC",
+        "acquired": "RHP Kevin Gausman"
+      },
+      "b": {
+        "team": "TOR",
+        "acquired": "OF Brett Bateman, INF Ty Southisene"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "Passan"
+    },
+    {
+      "date": "Aug. 2",
+      "a": {
+        "team": "NYY",
+        "acquired": "1B Luis García Jr."
+      },
+      "b": {
+        "team": "WSH",
+        "acquired": "RHP Yovanny Cruz, RHP Jake Bird, RHP Jack Cebert, RHP Ben Grable"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": ""
+    },
+    {
+      "date": "Aug. 2",
+      "a": {
+        "team": "TB",
+        "acquired": "RHP Freddy Peralta"
+      },
+      "b": {
+        "team": "NYM",
+        "acquired": "OF Aidan Smith, RHP Gary Gill Hill, 2B Émilien Pitre"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": ""
+    },
+    {
+      "date": "Aug. 2",
+      "a": {
+        "team": "TOR",
+        "acquired": "RHP Jameson Taillon, cash considerations"
+      },
+      "b": {
+        "team": "CHC",
+        "acquired": "player to be named later or cash considerations"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": ""
+    },
+    {
+      "date": "Aug. 1",
+      "a": {
+        "team": "LAD",
+        "acquired": "LHP Tarik Skubal"
+      },
+      "b": {
+        "team": "DET",
+        "acquired": "OF Zyhir Hope, RHP River Ryan, RHP Brady Smith"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "Rosenthal"
+    },
+    {
+      "date": "Aug. 1",
+      "a": {
+        "team": "CWS",
+        "acquired": "RHP Luis Castillo"
+      },
+      "b": {
+        "team": "SEA",
+        "acquired": "RHP Seranthony Domínguez, OF Nolan Jones, C Boston Smith"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": ""
+    },
+    {
+      "date": "Aug. 1",
+      "a": {
+        "team": "ATL",
+        "acquired": "OF Lane Thomas, LHP Bailey Falter"
+      },
+      "b": {
+        "team": "KC",
+        "acquired": "RHP Lucas Braun, LHP Carter Holton"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": ""
+    },
+    {
+      "date": "Aug. 1",
+      "a": {
+        "team": "PIT",
+        "acquired": "RHP Camilo Doval"
+      },
+      "b": {
+        "team": "NYY",
+        "acquired": "C Omar Alfonzo, OF Luis Cruz"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "Rosenthal"
+    },
+    {
+      "date": "Aug. 1",
+      "a": {
+        "team": "MIL",
+        "acquired": "C Bo Naylor, RHP Codi Heuer"
+      },
+      "b": {
+        "team": "CLE",
+        "acquired": "RHP Craig Yoho, OF Blake Perkins"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": ""
+    },
+    {
+      "date": "July 31",
+      "a": {
+        "team": "MIN",
+        "acquired": "RHP Dean Kremer"
+      },
+      "b": {
+        "team": "BAL",
+        "acquired": "OF Jhomnardo Reyes"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": ""
+    }
+  ]
+}
