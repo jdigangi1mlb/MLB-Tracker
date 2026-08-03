@@ -3,12 +3,12 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "TOR",
-        "acquired": "RHP José Soriano"
+        "team": "PHI",
+        "acquired": "IF Luis Arraez, RHP Caleb Kilian"
       },
       "b": {
-        "team": "LAA",
-        "acquired": "IF Arjun Nimmala, OF Eddie Micheletti, RHP Angel Rivero"
+        "team": "SF",
+        "acquired": "RHP Ramon Marquez, RHP Marty Gair"
       },
       "status": "VERIFIED",
       "sources": [
@@ -21,12 +21,12 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "PHI",
-        "acquired": "IF Luis Arraez, RHP Caleb Kilian"
+        "team": "TOR",
+        "acquired": "RHP José Soriano"
       },
       "b": {
-        "team": "SF",
-        "acquired": "RHP Ramon Marquez, RHP Marty Gair"
+        "team": "LAA",
+        "acquired": "IF Arjun Nimmala, OF Eddie Micheletti, RHP Angel Rivero"
       },
       "status": "VERIFIED",
       "sources": [
@@ -57,12 +57,65 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "CLE",
+        "acquired": "LHP Robbie Ray"
+      },
+      "b": {
+        "team": "LAA",
+        "acquired": "RHP Miguel Mendez, IF Joniel Hernandez"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "SEA",
         "acquired": "OF Taylor Ward"
       },
       "b": {
         "team": "BAL",
-        "acquired": "RHP Alex Hoppe, RHP Harrison Kreiling, RHP Brock Moore"
+        "acquired": "RHP Alex Hoppe, RHP Harrison Kreiling, RHP Brock Moore •"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TB",
+        "acquired": "C/1B Liam Hicks •"
+      },
+      "b": {
+        "team": "MIA",
+        "acquired": "IF Brayden Taylor, RHP Jacob Kisting, IF Adrian Santana"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "LAD",
+        "acquired": "LHP Kris Bubic •"
+      },
+      "b": {
+        "team": "KC",
+        "acquired": "RHP Carlos Duran"
       },
       "status": "VERIFIED",
       "sources": [
@@ -377,7 +430,24 @@
       ],
       "reporter": "",
       "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "SD",
+        "acquired": "LHP Robbie Ray"
+      },
+      "b": {
+        "team": "SF",
+        "acquired": "RHP Miguel Mendez, SS Joniel Hernandez"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T13:02:08.565606-05:00"
+  "updated_at_ct": "2026-08-03T13:46:29.982934-05:00"
 }
