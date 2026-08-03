@@ -98,7 +98,7 @@
       },
       "b": {
         "team": "SF",
-        "acquired": "LHP Henry Lalane, SS Kaeden Kent"
+        "acquired": "LHP Henry Lalane, SS Kaeden Kent •"
       },
       "status": "UNVERIFIED - MLB ONLY",
       "sources": [
@@ -110,71 +110,67 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "STL",
+        "acquired": "TBD"
+      },
+      "b": {
         "team": "CLE",
         "acquired": "OF Jo Adell"
       },
-      "b": {
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "LAA",
         "acquired": "C Jacob Cozart"
       },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
+      "b": {
         "team": "SEA",
         "acquired": "OF Taylor Ward"
       },
-      "b": {
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "BAL",
         "acquired": "RHP Alex Hoppe, RHP Harrison Kreiling, RHP Brock Moore •"
       },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
+      "b": {
         "team": "CHC",
         "acquired": "RHP Clay Holmes, OF Tyrone Taylor •"
       },
-      "b": {
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "NYM",
         "acquired": "3B/SS Jefferson Rojas •"
       },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
+      "b": {
         "team": "TB",
         "acquired": "C/1B Liam Hicks •"
       },
-      "b": {
-        "team": "MIA",
-        "acquired": "IF Brayden Taylor, RHP Jacob Kisting, IF Adrian Santana"
-      },
-      "status": "VERIFIED",
+      "status": "UNVERIFIED - MLB ONLY",
       "sources": [
-        "MLB.com",
-        "CBS Sports"
+        "MLB.com"
       ],
       "reporter": "",
       "winner": ""
@@ -182,12 +178,407 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "MIA",
+        "acquired": "IF Brayden Taylor, RHP Jacob Kisting, IF Adrian Santana"
+      },
+      "b": {
         "team": "CLE",
         "acquired": "LHP Foster Griffin"
       },
-      "b": {
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "WSH",
         "acquired": "LHP Josh Hartle, LHP Will Dion, RHP Kendeglys Virguez, OF Nick Mitchell"
+      },
+      "b": {
+        "team": "CLE",
+        "acquired": "1B Nathaniel Lowe"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CIN",
+        "acquired": "RHP Alejandro Rivera"
+      },
+      "b": {
+        "team": "PIT",
+        "acquired": "RHP Luke Weaver"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "NYM",
+        "acquired": "SS Sammy Stafura"
+      },
+      "b": {
+        "team": "MIL",
+        "acquired": "RHP Antonio Senzatela"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "COL",
+        "acquired": "LHP Mark Manfredi, SS Juan Martinez"
+      },
+      "b": {
+        "team": "MIL",
+        "acquired": "RHP Dustin May, LHP JoJo Romero"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "STL",
+        "acquired": "OF Alexander Frias, OF Josiah Ragsdale"
+      },
+      "b": {
+        "team": "HOU",
+        "acquired": "OF Daulton Varsho"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TOR",
+        "acquired": "RHP Spencer Arrighetti"
+      },
+      "b": {
+        "team": "SF",
+        "acquired": "IF Marcelo Mayer"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "BOS",
+        "acquired": "LHP Erik Miller"
+      },
+      "b": {
+        "team": "CHC",
+        "acquired": "LHP Braxton Garrett"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIA",
+        "acquired": "1B/OF Jonathon Long, RHP Jace Beck •"
+      },
+      "b": {
+        "team": "LAD",
+        "acquired": "LHP Kris Bubic •"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "KC",
+        "acquired": "RHP Carlos Duran"
+      },
+      "b": {
+        "team": "MIN",
+        "acquired": "RHP Jeff Hoffman •"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TOR",
+        "acquired": "LHP Dasan Hill, RHP John Klein, 2B Damaury Pena"
+      },
+      "b": {
+        "team": "CWS",
+        "acquired": "OF Brenton Doyle"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "COL",
+        "acquired": "RHP Mason Adams, SS Carlos Vielma"
+      },
+      "b": {
+        "team": "PHI",
+        "acquired": "LHP Brooks Raley"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "NYM",
+        "acquired": "RHP Luke Gabrysh, OF John Spikerman"
+      },
+      "b": {
+        "team": "CHC",
+        "acquired": "RHP Ryan Zeferjahn"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "LAA",
+        "acquired": "C/DH Moisés Ballesteros, RHP Mason McGwire"
+      },
+      "b": {
+        "team": "MIA",
+        "acquired": "RHP Victor Vodnik"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "COL",
+        "acquired": "IF Connor Norby, RHP Aiden May"
+      },
+      "b": {
+        "team": "TOR",
+        "acquired": "IF Josh Smith, RHP Josh Stephan •"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TEX",
+        "acquired": "LHP Adam Macko"
+      },
+      "b": {
+        "team": "PIT",
+        "acquired": "RHP Kirby Yates"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "LAA",
+        "acquired": "RHP Kyle Robinson"
+      },
+      "b": {
+        "team": "CWS",
+        "acquired": "C Joey Bart"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "ATL",
+        "acquired": "RHP Duncan Davitt"
+      },
+      "b": {
+        "team": "BOS",
+        "acquired": "OF Eli White"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "ATL",
+        "acquired": "RHP Tyler Uberstine"
+      },
+      "b": {
+        "team": "TB",
+        "acquired": "RHP Tyler Wells"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "BAL",
+        "acquired": "RHP Michael Forret"
+      },
+      "b": {
+        "team": "STL",
+        "acquired": "LHP Caleb Ferguson"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CIN",
+        "acquired": "international bonus pool money"
+      },
+      "b": {
+        "team": "ATL",
+        "acquired": "LHP Brent Suter"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "LAA",
+        "acquired": "INF Nacho Alvarez Jr."
+      },
+      "b": {
+        "team": "LAD",
+        "acquired": "C Hunter Feduccia"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TB",
+        "acquired": "OF Jack Suwinski"
+      },
+      "b": {
+        "team": "LAD",
+        "acquired": "C Ben Rortvedt"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "NYM",
+        "acquired": "RHP Chayce McDermott"
+      },
+      "b": {
+        "team": "CIN",
+        "acquired": "IF Juan Brito"
       },
       "status": "UNVERIFIED - MLB ONLY",
       "sources": [
@@ -200,406 +591,28 @@
       "date": "Aug. 3",
       "a": {
         "team": "CLE",
-        "acquired": "1B Nathaniel Lowe"
+        "acquired": "cash considerations"
       },
       "b": {
-        "team": "CIN",
-        "acquired": "RHP Alejandro Rivera"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "PIT",
-        "acquired": "RHP Luke Weaver"
-      },
-      "b": {
-        "team": "NYM",
-        "acquired": "SS Sammy Stafura"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "MIL",
-        "acquired": "RHP Antonio Senzatela"
-      },
-      "b": {
-        "team": "COL",
-        "acquired": "LHP Mark Manfredi, SS Juan Martinez"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "MIL",
-        "acquired": "RHP Dustin May, LHP JoJo Romero"
-      },
-      "b": {
-        "team": "STL",
-        "acquired": "OF Alexander Frias, OF Josiah Ragsdale"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "HOU",
-        "acquired": "OF Daulton Varsho"
-      },
-      "b": {
-        "team": "TOR",
-        "acquired": "RHP Spencer Arrighetti"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "SF",
-        "acquired": "IF Marcelo Mayer"
-      },
-      "b": {
-        "team": "BOS",
-        "acquired": "LHP Erik Miller"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "CHC",
-        "acquired": "LHP Braxton Garrett"
-      },
-      "b": {
-        "team": "MIA",
-        "acquired": "1B/OF Jonathon Long, RHP Jace Beck •"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "LAD",
-        "acquired": "LHP Kris Bubic •"
-      },
-      "b": {
-        "team": "KC",
-        "acquired": "RHP Carlos Duran"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "MIN",
-        "acquired": "RHP Jeff Hoffman •"
-      },
-      "b": {
-        "team": "TOR",
-        "acquired": "LHP Dasan Hill, RHP John Klein, 2B Damaury Pena"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "CWS",
-        "acquired": "OF Brenton Doyle"
-      },
-      "b": {
-        "team": "COL",
-        "acquired": "RHP Mason Adams, SS Carlos Vielma"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "PHI",
-        "acquired": "LHP Brooks Raley"
-      },
-      "b": {
-        "team": "NYM",
-        "acquired": "RHP Luke Gabrysh, OF John Spikerman"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "CHC",
-        "acquired": "RHP Ryan Zeferjahn"
-      },
-      "b": {
-        "team": "LAA",
-        "acquired": "C/DH Moisés Ballesteros, RHP Mason McGwire"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "MIA",
-        "acquired": "RHP Victor Vodnik"
-      },
-      "b": {
-        "team": "COL",
-        "acquired": "IF Connor Norby, RHP Aiden May"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "TOR",
-        "acquired": "IF Josh Smith, RHP Josh Stephan •"
-      },
-      "b": {
-        "team": "TEX",
-        "acquired": "LHP Adam Macko"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "PIT",
-        "acquired": "RHP Kirby Yates"
-      },
-      "b": {
-        "team": "LAA",
-        "acquired": "RHP Kyle Robinson"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "CWS",
-        "acquired": "C Joey Bart"
-      },
-      "b": {
-        "team": "ATL",
-        "acquired": "RHP Duncan Davitt"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "BOS",
-        "acquired": "OF Eli White"
-      },
-      "b": {
-        "team": "ATL",
-        "acquired": "RHP Tyler Uberstine"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "TB",
-        "acquired": "RHP Tyler Wells"
-      },
-      "b": {
-        "team": "BAL",
-        "acquired": "RHP Michael Forret"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "STL",
-        "acquired": "LHP Caleb Ferguson"
-      },
-      "b": {
-        "team": "CIN",
-        "acquired": "international bonus pool money"
-      },
-      "status": "UNVERIFIED - MLB ONLY",
-      "sources": [
-        "MLB.com"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "ATL",
-        "acquired": "LHP Brent Suter"
-      },
-      "b": {
-        "team": "LAA",
-        "acquired": "INF Nacho Alvarez Jr."
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "LAD",
-        "acquired": "C Hunter Feduccia"
-      },
-      "b": {
-        "team": "TB",
-        "acquired": "OF Jack Suwinski"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "LAD",
-        "acquired": "C Ben Rortvedt"
-      },
-      "b": {
-        "team": "NYM",
-        "acquired": "RHP Chayce McDermott"
-      },
-      "status": "VERIFIED",
-      "sources": [
-        "MLB.com",
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
         "team": "PHI",
         "acquired": "OF Colby Thomas"
       },
-      "b": {
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "OAK",
         "acquired": "RHP Seth Johnson"
+      },
+      "b": {
+        "team": "BAL",
+        "acquired": "OF Christian Franklin"
       },
       "status": "UNVERIFIED - MLB ONLY",
       "sources": [
@@ -611,17 +624,16 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "WSH",
+        "acquired": "RHP Joe Glassey"
+      },
+      "b": {
         "team": "KC",
         "acquired": "RHP Nolan Hoffman"
       },
-      "b": {
-        "team": "PHI",
-        "acquired": "RHP Manuel Colón"
-      },
-      "status": "VERIFIED",
+      "status": "UNVERIFIED - MLB ONLY",
       "sources": [
-        "MLB.com",
-        "CBS Sports"
+        "MLB.com"
       ],
       "reporter": "",
       "winner": ""
@@ -845,12 +857,80 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "STL",
+        "acquired": "LHP Caleb Ferguson"
+      },
+      "b": {
+        "team": "CIN",
+        "acquired": "international cap space"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "PIT",
+        "acquired": "RHP Kirby Yates"
+      },
+      "b": {
+        "team": "LAA",
+        "acquired": "RHP Kyle Robinson"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "PIT",
         "acquired": "RHP Lake Bachar"
       },
       "b": {
         "team": "MIA",
         "acquired": "RHP Brandan Bidois, INF Hyun Seung Lee, OF Brian Sanchez"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIA",
+        "acquired": "RHP Victor Vodnik"
+      },
+      "b": {
+        "team": "COL",
+        "acquired": "IF Connor Norby, RHP Aiden May"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CLE",
+        "acquired": "1B Nathaniel Lowe"
+      },
+      "b": {
+        "team": "CIN",
+        "acquired": "RHP Alejandro Rivera"
       },
       "status": "UNVERIFIED - CBS ONLY",
       "sources": [
@@ -879,6 +959,40 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "MIN",
+        "acquired": "RHP Jeff Hoffman"
+      },
+      "b": {
+        "team": "TOR",
+        "acquired": "LHP Dasan Hill, RHP John Klein and 2B Dameury Pena"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "SF",
+        "acquired": "INF Marcelo Mayer"
+      },
+      "b": {
+        "team": "BOS",
+        "acquired": "LHP Erik Miller"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "WSH",
         "acquired": "RHP Joe Glassey"
       },
@@ -892,7 +1006,313 @@
       ],
       "reporter": "",
       "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CWS",
+        "acquired": "C Joey Bart"
+      },
+      "b": {
+        "team": "ATL",
+        "acquired": "RHP Duncan Davitt"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TB",
+        "acquired": "RHP Tyler Wells"
+      },
+      "b": {
+        "team": "BAL",
+        "acquired": "RHP Michael Forret"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CHC",
+        "acquired": "RHP Clay Holmes, OF Tyrone Taylor"
+      },
+      "b": {
+        "team": "NYM",
+        "acquired": "IF Jefferson Rojas"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "KC",
+        "acquired": "RHP Nolan Hoffman"
+      },
+      "b": {
+        "team": "PHI",
+        "acquired": "RHP Manuel Colón"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "HOU",
+        "acquired": "OF Daulton Varsho"
+      },
+      "b": {
+        "team": "TOR",
+        "acquired": "RHP Spencer Arrighetti"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CHC",
+        "acquired": "RHP Ryan Zeferjahn"
+      },
+      "b": {
+        "team": "LAA",
+        "acquired": "C Moises Ballesteros, RHP Mason McGwire"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIL",
+        "acquired": "RHP Dustin May, LHP JoJo Romero"
+      },
+      "b": {
+        "team": "STL",
+        "acquired": "OF Alexander Frías, OF Josiah Ragsdale"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CHC",
+        "acquired": "LHP Braxton Garrett"
+      },
+      "b": {
+        "team": "MIA",
+        "acquired": "1B Jonathon Long, RHP Jace Beck"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "PIT",
+        "acquired": "RHP Luke Weaver"
+      },
+      "b": {
+        "team": "NYM",
+        "acquired": "IF Sammy Stafura"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "LAD",
+        "acquired": "LHP Kris Bubic"
+      },
+      "b": {
+        "team": "KC",
+        "acquired": "RHP Carlos Duran"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TB",
+        "acquired": "C Liam Hicks"
+      },
+      "b": {
+        "team": "MIA",
+        "acquired": "IF Brayden Taylor, SS Adrian Santana and RHP Jacob Kisting"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TOR",
+        "acquired": "IF Josh Smith, RHP Josh Stephan"
+      },
+      "b": {
+        "team": "TEX",
+        "acquired": "LHP Adam Macko"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CWS",
+        "acquired": "OF Brenton Doyle"
+      },
+      "b": {
+        "team": "COL",
+        "acquired": "RHP Mason Adams, IF Carlos Vielma"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "SEA",
+        "acquired": "OF Taylor Ward"
+      },
+      "b": {
+        "team": "BAL",
+        "acquired": "RHP Alex Hoppe, RHP Harrison Kreiling, RHP Brock Moore"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CLE",
+        "acquired": "OF Jo Adell"
+      },
+      "b": {
+        "team": "LAA",
+        "acquired": "C Jacob Cozart"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "LAD",
+        "acquired": "C Ben Rortvedt"
+      },
+      "b": {
+        "team": "NYM",
+        "acquired": "RHP Chayce McDermott"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "ATL",
+        "acquired": "LHP Brent Suter"
+      },
+      "b": {
+        "team": "LAA",
+        "acquired": "IF Nacho Alvarez Jr."
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "PHI",
+        "acquired": "LHP Brooks Raley"
+      },
+      "b": {
+        "team": "NYM",
+        "acquired": "RHP Luke Gabrysh, OF John Spikerman"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T17:50:13.116397-05:00"
+  "updated_at_ct": "2026-08-03T18:00:22.658647-05:00"
 }
