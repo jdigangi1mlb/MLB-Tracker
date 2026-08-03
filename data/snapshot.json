@@ -386,9 +386,10 @@
         "team": "COL",
         "acquired": "IF Connor Norby, RHP Aiden May"
       },
-      "status": "UNVERIFIED - MLB ONLY",
+      "status": "VERIFIED",
       "sources": [
-        "MLB.com"
+        "MLB.com",
+        "CBS Sports"
       ],
       "reporter": "",
       "winner": ""
@@ -738,6 +739,91 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "LAD",
+        "acquired": "C Hunter Feduccia, RHP Jacob Kmatz"
+      },
+      "b": {
+        "team": "TB",
+        "acquired": "OF Jack Suwinski"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "PIT",
+        "acquired": "RHP Kirby Yates"
+      },
+      "b": {
+        "team": "LAA",
+        "acquired": "RHP Kyle Robinson"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "PIT",
+        "acquired": "RHP Lake Bachar"
+      },
+      "b": {
+        "team": "MIA",
+        "acquired": "RHP Brandan Bidois, INF Hyun Seung Lee, OF Brian Sanchez"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "SD",
+        "acquired": "RHP Casey Mize, 3B Gage Workman"
+      },
+      "b": {
+        "team": "DET",
+        "acquired": "RHP Kash Mayfield, LHP Jackson Wolf"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "CLE",
+        "acquired": "1B Nathaniel Lowe"
+      },
+      "b": {
+        "team": "CIN",
+        "acquired": "RHP Alejandro Rivera"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "ARI",
         "acquired": "OF Lars Nootbaar"
       },
@@ -770,5 +856,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T17:10:13.848366-05:00"
+  "updated_at_ct": "2026-08-03T17:20:19.101740-05:00"
 }
