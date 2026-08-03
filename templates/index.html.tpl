@@ -1,45 +1,48 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<title>MLB Trade Deadline Tracker 2026</title><style>
-:root{--navy:#071f43;--navy2:#123d70;--red:#c91f32;--ink:#172335;--muted:#657286;--line:#d8dee7;--pale:#f4f7fa;--green:#13783f;--amber:#a86100;--amber-bg:#fff3d8}
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>MLB Trade Deadline Tracker 2026</title>
+<style>
+:root{--navy:#07285b;--navy2:#0f3a77;--red:#cf2336;--ink:#172335;--muted:#66758b;--line:#d1d8e2;--bg:#eef2f6;--white:#fff;--green:#13783f;--green-bg:#e5f5ea;--amber:#8a5a08;--amber-bg:#f9efd3;--gold:#8b6500}
 *{box-sizing:border-box}
-html,body{margin:0;width:100%;max-width:100%;overflow-x:hidden;background:#edf2f7;color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;-webkit-text-size-adjust:100%}
-.tracker{width:100%;max-width:1500px;margin:0 auto;background:#fff}
-.header{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:18px;align-items:center;padding:22px;border-bottom:6px solid var(--red)}
-h1{margin:0;color:var(--navy);font-size:40px;line-height:1.02;letter-spacing:-.03em}
-.leagues{display:flex;align-items:center;gap:18px}.leagues img{width:94px;height:94px;object-fit:contain;filter:drop-shadow(5px 6px 0 #6b4809) drop-shadow(2px 2px 0 #f6d98e)}.league-divider{width:1px;height:80px;background:#9aa7b6}
-.summary{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;padding:12px 22px;background:var(--pale);border-bottom:1px solid var(--line)}
-.summary-card{min-width:0;padding:10px 12px;border:1px solid var(--line);border-radius:11px;background:#fff}.summary-label{color:var(--red);font-size:10px;font-weight:900;letter-spacing:.08em;text-transform:uppercase}.summary-value{margin-top:4px;color:var(--navy);font-size:17px;font-weight:900}
-.content{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:16px;padding:16px 22px 24px}
-.page{min-width:0;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff;margin-bottom:18px}.page:last-child{margin-bottom:0}
-.page-header{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:11px 14px;background:var(--navy);color:#fff}.page-header strong{font-size:17px}.page-header span{font-size:12px;color:#dce6f1}
-.trade-head{display:grid;grid-template-columns:80px 210px minmax(0,1fr) 170px;background:var(--navy2);color:#fff;font-size:12px;font-weight:900;text-transform:uppercase}.trade-head div{padding:9px 10px;border-right:1px solid #66809d}
-.trade-card{display:grid;grid-template-columns:80px 210px minmax(0,1fr) 170px;grid-template-areas:"date logos details source";min-width:0;border-bottom:1px solid var(--line);background:#fff}.trade-card:nth-of-type(odd){background:#f8fafc}.trade-card.unverified{background:var(--amber-bg)}
-.trade-card>div{min-width:0;padding:11px 10px;border-right:1px solid var(--line)}.trade-date{grid-area:date;display:flex;justify-content:center;align-items:center;text-align:center;color:var(--red);font-size:15px;font-weight:900}
-.logo-pair{grid-area:logos;display:flex;align-items:center;justify-content:center;gap:13px}.logo-pair img{display:block;width:70px;height:70px;max-width:70px;object-fit:contain;flex:0 0 70px}.logo-pair span{color:var(--red);font-size:27px;font-weight:900}
-.trade-details{grid-area:details;display:flex;flex-direction:column;justify-content:center;min-width:0}.trade-details p{margin:0 0 8px;font-size:14px;line-height:1.35;overflow-wrap:anywhere}.trade-details p:last-of-type{margin-bottom:0}.trade-details strong{color:var(--navy)}
-.desktop-sources{grid-area:source;display:flex;flex-direction:column;justify-content:center;align-items:stretch;text-align:center}.mobile-sources{display:none}
-.status{display:inline-block;align-self:center;margin:0 0 6px;padding:5px 8px;border-radius:999px;font-size:10px;font-weight:900;white-space:nowrap}.status.verified{color:var(--green);background:#e5f5ea;border:1px solid #90c6a4}.status.unverified{color:var(--amber);background:#fff1cd;border:1px solid #dcb16b}
-.source{display:block;margin:3px 0;padding:6px 7px;color:var(--navy);border:1px solid var(--line);border-radius:7px;background:#fff;font-size:12px;font-weight:900;text-decoration:none}.reporter{margin-top:5px;color:var(--muted);font-size:11px}.page-footer{padding:10px 14px;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
-.sidebar{display:grid;grid-template-rows:repeat(3,minmax(0,1fr));gap:16px;min-width:0}.side-card{min-width:0;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff}.side-title{padding:10px 12px;background:var(--navy);color:#fff;text-align:center;font-size:13px;font-weight:900;text-transform:uppercase}.side-title.red{background:var(--red)}.side-body{padding:14px;height:calc(100% - 39px);display:flex;flex-direction:column;justify-content:center}
-.metrics{display:grid;grid-template-columns:1fr 1fr;gap:9px}.metric{padding:12px 8px;border:1px solid var(--line);border-radius:10px;background:var(--pale);text-align:center}.metric strong{display:block;color:var(--navy);font-size:28px}.metric span{color:var(--muted);font-size:10px;font-weight:900;text-transform:uppercase}.callout{margin-top:11px;padding:9px 10px;border-left:4px solid var(--amber);background:var(--amber-bg);color:#674000;font-size:12px;line-height:1.35}
-.ledger-link{display:block;margin:7px 0;padding:10px;border:1px solid var(--line);border-radius:9px;color:var(--navy);background:#fff;font-size:13px;font-weight:900;text-decoration:none}.small{color:var(--muted);font-size:12px;line-height:1.45}.footer{display:flex;justify-content:space-between;gap:12px;padding:12px 22px;background:var(--navy);color:#fff;font-size:12px}
-@media(max-width:900px){.header{grid-template-columns:1fr;padding:18px 16px 15px;min-height:135px}h1{font-size:32px;padding-right:130px}.leagues{position:absolute;top:14px;right:15px;gap:10px}.leagues img{width:55px;height:55px;filter:drop-shadow(3px 4px 0 #6b4809)}.league-divider{height:47px}.summary{grid-template-columns:repeat(2,minmax(0,1fr));padding:10px 12px}.summary-card:last-child{grid-column:1/-1}.content{display:block;padding:12px}.sidebar{grid-template-columns:1fr;grid-template-rows:auto;margin-bottom:14px}.trade-head{display:none}.trade-card{grid-template-columns:55px 104px minmax(0,1fr);grid-template-areas:"date logos details";min-height:142px}.trade-card>div{padding:10px 7px}.trade-date{writing-mode:vertical-rl;transform:rotate(180deg);letter-spacing:.03em;font-size:13px}.logo-pair{flex-direction:column;gap:2px}.logo-pair img{width:54px;height:54px;max-width:54px;flex-basis:54px}.logo-pair span{font-size:16px;line-height:1}.trade-details p{font-size:13px;line-height:1.32;margin-bottom:6px}.desktop-sources{display:none}.mobile-sources{display:flex;flex-wrap:wrap;align-items:center;gap:5px;margin-top:8px}.mobile-sources .status{margin:0;align-self:auto}.mobile-sources .source{display:inline-block;margin:0;padding:5px 7px;font-size:11px}.mobile-sources .reporter{width:100%;margin-top:2px}.page-header{align-items:flex-start}.page-header strong{font-size:15px}.page-header span{font-size:11px;text-align:right}.footer{display:block;padding:11px 13px}.footer span{display:block;margin:2px 0}}
-</style></head>
-<body><div class="tracker">
-<header class="header"><h1>MLB Trade Deadline Tracker 2026</h1><div class="leagues"><img src="__NL__" alt="National League logo"><div class="league-divider"></div><img src="__AL__" alt="American League logo"></div></header>
-<section class="summary">
-<div class="summary-card"><div class="summary-label">Last checked</div><div class="summary-value">__UPDATED__</div></div>
-<div class="summary-card"><div class="summary-label">Verified</div><div class="summary-value">__VERIFIED__ trades</div></div>
-<div class="summary-card"><div class="summary-label">Unverified</div><div class="summary-value">__UNVERIFIED__ one-source</div></div>
-<div class="summary-card"><div class="summary-label">Page size</div><div class="summary-value">10 trades</div></div>
-<div class="summary-card"><div class="summary-label">Deadline</div><div class="summary-value">Aug. 3 - 5:00 PM CT</div></div>
-</section>
-<main class="content"><div>__PAGES__</div>
-<aside class="sidebar">
-<section class="side-card"><div class="side-title red">Verification snapshot</div><div class="side-body"><div class="metrics"><div class="metric"><strong>__VERIFIED__</strong><span>Listed by both</span></div><div class="metric"><strong>__UNVERIFIED__</strong><span>One source only</span></div></div><div class="callout">__UNVERIFIED_TEXT__</div></div></section>
-<section class="side-card"><div class="side-title">Required ledgers</div><div class="side-body"><a class="ledger-link" href="__MLB_URL__" target="_blank">MLB.com - golden source</a><a class="ledger-link" href="__CBS_URL__" target="_blank">CBS Sports - second ledger</a></div></section>
-<section class="side-card"><div class="side-title">Next update</div><div class="side-body small"><strong>GitHub schedule:</strong> every five minutes.<br><br><strong>Alert rule:</strong> create a GitHub issue only when the canonical ledger changes.</div></section>
-</aside></main>
-<footer class="footer"><span>Verified = listed by MLB.com and CBS Sports.</span><span>Updated __UPDATED__</span></footer>
-</div></body></html>
+html,body{margin:0;width:100%;max-width:100%;overflow-x:hidden;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;-webkit-text-size-adjust:100%}
+.tracker{width:100%;max-width:1440px;margin:0 auto;background:var(--white)}
+.header{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:22px;align-items:center;padding:22px 24px 18px;border-bottom:6px solid var(--red)}
+.title-wrap{min-width:0}h1{margin:0;color:var(--navy);font-size:56px;line-height:.98;letter-spacing:-.04em;font-weight:900}
+.header-right{display:flex;flex-direction:column;gap:14px}.logo-row{display:flex;align-items:center;justify-content:center;gap:18px}
+.logo-box{width:128px;height:102px;display:flex;align-items:center;justify-content:center;border-bottom:8px solid var(--gold)}
+.logo-box img{width:94px;height:94px;object-fit:contain}.logo-divider{width:2px;height:74px;background:#a9b4c2}
+.meta-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}.meta-card{min-width:0;min-height:86px;padding:12px 14px 13px;display:flex;flex-direction:column;justify-content:center;border:1px solid var(--line);border-radius:16px;background:var(--white)}
+.meta-label{margin-bottom:6px;color:var(--red);font-size:11px;font-weight:900;letter-spacing:.11em;text-transform:uppercase}.meta-date,.meta-time{color:var(--navy);font-size:16px;font-weight:900;line-height:1.08}.meta-time{white-space:nowrap}
+.content{padding:22px 24px 26px}.log-card{overflow:hidden;border:1px solid var(--line);border-radius:16px;background:var(--white)}
+.log-header{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:14px 18px;background:var(--navy);color:var(--white)}
+.log-header strong{font-size:22px;line-height:1}.log-header span{color:#dfe8f2;font-size:14px;white-space:nowrap}
+.trade-head{display:grid;grid-template-columns:94px 222px minmax(0,1fr) 182px;background:var(--navy2);color:var(--white);font-size:12px;font-weight:900;text-transform:uppercase}
+.trade-head div{padding:10px 12px;border-right:1px solid #6f87a6}.trade-card{display:grid;grid-template-columns:94px 222px minmax(0,1fr) 182px;grid-template-areas:"date logos details source";border-bottom:1px solid var(--line)}
+.trade-card:nth-of-type(odd){background:#f9fbfd}.trade-card.unverified{background:var(--amber-bg)}.trade-card>div{min-width:0;padding:13px 12px;border-right:1px solid var(--line)}
+.trade-date{grid-area:date;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--red);font-size:15px;font-weight:900}.logo-pair{grid-area:logos;display:flex;align-items:center;justify-content:center;gap:14px}
+.logo-pair img{width:74px;height:74px;object-fit:contain;flex:0 0 74px}.logo-pair img.winner{filter:drop-shadow(0 5px 0 #8b6500) drop-shadow(0 0 5px #f1d27a)}.logo-pair span{color:var(--red);font-size:28px;font-weight:900}
+.trade-details{grid-area:details;display:flex;flex-direction:column;justify-content:center}.trade-details p{margin:0 0 8px;font-size:14px;line-height:1.34;overflow-wrap:anywhere}.trade-details p:last-of-type{margin-bottom:0}.trade-details strong{color:var(--navy)}
+.desktop-sources{grid-area:source;display:flex;flex-direction:column;justify-content:center;align-items:stretch;text-align:center}.mobile-sources{display:none}.status{display:inline-block;align-self:center;margin:0 0 7px;padding:5px 9px;border-radius:999px;font-size:10px;font-weight:900;white-space:nowrap}
+.status.verified{color:var(--green);background:var(--green-bg);border:1px solid #90c6a4}.status.unverified{color:var(--amber);background:#fff4d7;border:1px solid #dcb16b}.source{display:block;margin:3px 0;padding:7px 8px;color:var(--navy);background:#fff;border:1px solid var(--line);border-radius:8px;font-size:12px;font-weight:900;text-decoration:none}.reporter{margin-top:6px;color:var(--muted);font-size:11px}
+.footer{display:flex;justify-content:flex-end;padding:12px 24px 14px;background:var(--navy);color:#fff;font-size:12px}
+@media(max-width:900px){.tracker{max-width:none}.header{grid-template-columns:minmax(0,1fr) 198px;gap:14px;align-items:start;padding:16px 16px 14px}h1{font-size:34px;line-height:.96}.header-right{gap:10px}.logo-row{gap:10px}.logo-box{width:90px;height:72px;border-bottom:6px solid var(--gold)}.logo-box img{width:66px;height:66px}.logo-divider{height:56px}.meta-row{grid-template-columns:1fr 1fr;gap:8px}.meta-card{min-height:66px;padding:9px 8px 10px;border-radius:14px}.meta-label{margin-bottom:4px;font-size:8px}.meta-date,.meta-time{font-size:11px}.content{padding:14px 12px 16px}.log-header{padding:12px 14px}.log-header strong{font-size:19px}.log-header span{font-size:12px;text-align:right;white-space:normal}.trade-head{display:none}.trade-card{grid-template-columns:56px 110px minmax(0,1fr);grid-template-areas:"date logos details";min-height:148px}.trade-card>div{padding:10px 8px}.trade-date{writing-mode:vertical-rl;transform:rotate(180deg);letter-spacing:.03em;font-size:13px}.logo-pair{flex-direction:column;gap:2px}.logo-pair img{width:56px;height:56px;flex-basis:56px}.logo-pair span{font-size:16px;line-height:1}.trade-details p{margin-bottom:6px;font-size:13px;line-height:1.3}.desktop-sources{display:none}.mobile-sources{display:flex;flex-wrap:wrap;align-items:center;gap:5px;margin-top:8px}.mobile-sources .status{margin:0;align-self:auto}.mobile-sources .source{display:inline-block;margin:0;padding:5px 7px;font-size:11px}.mobile-sources .reporter{width:100%;margin-top:2px}.footer{padding:10px 12px 12px}}
+@media(max-width:430px){.header{grid-template-columns:minmax(0,1fr) 186px;gap:10px;padding-left:12px;padding-right:12px}h1{font-size:31px}.logo-box{width:84px;height:68px}.logo-box img{width:62px;height:62px}.meta-card{padding-left:6px;padding-right:6px}.meta-date,.meta-time{font-size:10.5px}.trade-card{grid-template-columns:52px 101px minmax(0,1fr)}}
+</style>
+</head>
+<body>
+<div class="tracker">
+<header class="header">
+<div class="title-wrap"><h1>MLB Trade Deadline Tracker 2026</h1></div>
+<div class="header-right">
+<div class="logo-row"><div class="logo-box"><img src="__NL__" alt="National League logo"></div><div class="logo-divider"></div><div class="logo-box"><img src="__AL__" alt="American League logo"></div></div>
+<div class="meta-row"><div class="meta-card"><div class="meta-label">Last checked</div><div class="meta-date">__UPDATED_DATE__</div><div class="meta-time">__UPDATED_TIME__</div></div><div class="meta-card"><div class="meta-label">Deadline</div><div class="meta-date">__DEADLINE_DATE__</div><div class="meta-time">__DEADLINE_TIME__</div></div></div>
+</div>
+</header>
+<main class="content"><section class="log-card"><div class="log-header"><strong>Trade Log</strong><span>Newest first · vertical page scroll</span></div><div class="trade-head"><div>Date</div><div>Teams</div><div>Full return</div><div>Source / status</div></div>__ROWS__</section></main>
+<footer class="footer">Updated __UPDATED_FULL__</footer>
+</div>
+</body>
+</html>
