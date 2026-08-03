@@ -471,12 +471,29 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "CHC",
+        "acquired": "RHP Ryan Zeferjahn"
+      },
+      "b": {
+        "team": "LAA",
+        "acquired": ""
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "MIL",
         "acquired": "RHP Dustin May, LHP JoJo Romero"
       },
       "b": {
         "team": "STL",
-        "acquired": ""
+        "acquired": "OF Alexander Frías, OF Josiah Ragsdale"
       },
       "status": "UNVERIFIED - CBS ONLY",
       "sources": [
@@ -503,5 +520,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T14:50:18.630579-05:00"
+  "updated_at_ct": "2026-08-03T15:00:25.428565-05:00"
 }
