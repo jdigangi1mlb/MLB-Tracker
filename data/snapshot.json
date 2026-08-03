@@ -98,7 +98,25 @@
       },
       "b": {
         "team": "NYM",
-        "acquired": "RHP Luke Gabrysh, OF John Spikerman"
+        "acquired": "RHP Luke Gabrysh, OF John Spikerman •"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TOR",
+        "acquired": "INF Josh Smith, RHP Josh Stephan •"
+      },
+      "b": {
+        "team": "TEX",
+        "acquired": "LHP Adam Macko"
       },
       "status": "VERIFIED",
       "sources": [
@@ -361,5 +379,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T12:33:38.058000-05:00"
+  "updated_at_ct": "2026-08-03T13:02:08.565606-05:00"
 }
