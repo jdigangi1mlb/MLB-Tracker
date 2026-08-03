@@ -170,7 +170,7 @@
       },
       "b": {
         "team": "STL",
-        "acquired": "OF Alexander Frias, OF Carson Ragsdale -- Source"
+        "acquired": "OF Alexander Frias, OF Carson Ragsdale"
       },
       "status": "VERIFIED",
       "sources": [
@@ -315,6 +315,42 @@
       "b": {
         "team": "ATL",
         "acquired": "RHP Duncan Davitt"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "BOS",
+        "acquired": "OF Eli White"
+      },
+      "b": {
+        "team": "ATL",
+        "acquired": "RHP Tyler Uberstine"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "TB",
+        "acquired": "RHP Tyler Wells"
+      },
+      "b": {
+        "team": "BAL",
+        "acquired": "RHP Michael Forret"
       },
       "status": "VERIFIED",
       "sources": [
@@ -597,12 +633,12 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "BOS",
-        "acquired": "OF Eli White"
+        "team": "SF",
+        "acquired": "INF Marcelo Mayer"
       },
       "b": {
-        "team": "ATL",
-        "acquired": "RHP Tyler Uberstine"
+        "team": "BOS",
+        "acquired": "LHP Erik Miller"
       },
       "status": "UNVERIFIED - CBS ONLY",
       "sources": [
@@ -614,12 +650,29 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "TB",
-        "acquired": "RHP Tyler Wells"
+        "team": "WSH",
+        "acquired": "RHP Joe Glassey"
       },
       "b": {
         "team": "BAL",
-        "acquired": "RHP Michael Forret"
+        "acquired": "LF Christian Franklin"
+      },
+      "status": "UNVERIFIED - CBS ONLY",
+      "sources": [
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIL",
+        "acquired": "RHP Antonio Senzatela"
+      },
+      "b": {
+        "team": "COL",
+        "acquired": ""
       },
       "status": "UNVERIFIED - CBS ONLY",
       "sources": [
@@ -629,5 +682,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T16:20:15.134874-05:00"
+  "updated_at_ct": "2026-08-03T16:30:18.066153-05:00"
 }
