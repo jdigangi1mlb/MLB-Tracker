@@ -75,6 +75,23 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "NYY",
+        "acquired": "OF Heliot Ramos"
+      },
+      "b": {
+        "team": "SF",
+        "acquired": "LHP Henry LaLane, SS Kaeden Kent"
+      },
+      "status": "UNVERIFIED - MLB ONLY",
+      "sources": [
+        "MLB.com"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "CLE",
         "acquired": "OF Jo Adell"
       },
@@ -166,6 +183,24 @@
       "date": "Aug. 3",
       "a": {
         "team": "MIL",
+        "acquired": "RHP Antonio Senzatela"
+      },
+      "b": {
+        "team": "COL",
+        "acquired": "LHP Mark Manfredi, SS Juan Martinez"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "MIL",
         "acquired": "RHP Dustin May, LHP JoJo Romero"
       },
       "b": {
@@ -189,6 +224,24 @@
       "b": {
         "team": "TOR",
         "acquired": "RHP Spencer Arrighetti"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
+        "team": "SF",
+        "acquired": "IF Marcelo Mayer"
+      },
+      "b": {
+        "team": "BOS",
+        "acquired": "LHP Erik Miller"
       },
       "status": "VERIFIED",
       "sources": [
@@ -278,7 +331,7 @@
       },
       "b": {
         "team": "LAA",
-        "acquired": "C/DH Moisés Ballesteros, RHP Mason McGwire"
+        "acquired": "C/DH Moisés Ballesteros, RHP Mason McGwire •"
       },
       "status": "VERIFIED",
       "sources": [
@@ -633,23 +686,6 @@
     {
       "date": "Aug. 3",
       "a": {
-        "team": "SF",
-        "acquired": "INF Marcelo Mayer"
-      },
-      "b": {
-        "team": "BOS",
-        "acquired": "LHP Erik Miller"
-      },
-      "status": "UNVERIFIED - CBS ONLY",
-      "sources": [
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
         "team": "WSH",
         "acquired": "RHP Joe Glassey"
       },
@@ -663,24 +699,7 @@
       ],
       "reporter": "",
       "winner": ""
-    },
-    {
-      "date": "Aug. 3",
-      "a": {
-        "team": "MIL",
-        "acquired": "RHP Antonio Senzatela"
-      },
-      "b": {
-        "team": "COL",
-        "acquired": ""
-      },
-      "status": "UNVERIFIED - CBS ONLY",
-      "sources": [
-        "CBS Sports"
-      ],
-      "reporter": "",
-      "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T16:30:18.066153-05:00"
+  "updated_at_ct": "2026-08-03T16:40:11.292642-05:00"
 }
