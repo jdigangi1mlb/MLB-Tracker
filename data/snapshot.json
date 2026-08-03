@@ -290,6 +290,24 @@
     {
       "date": "Aug. 3",
       "a": {
+        "team": "MIN",
+        "acquired": "RHP Jeff Hoffman •"
+      },
+      "b": {
+        "team": "TOR",
+        "acquired": "LHP Dasan Hill, RHP John Klein, 2B Damaury Pena"
+      },
+      "status": "VERIFIED",
+      "sources": [
+        "MLB.com",
+        "CBS Sports"
+      ],
+      "reporter": "",
+      "winner": ""
+    },
+    {
+      "date": "Aug. 3",
+      "a": {
         "team": "CWS",
         "acquired": "OF Brenton Doyle"
       },
@@ -701,5 +719,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T16:40:11.292642-05:00"
+  "updated_at_ct": "2026-08-03T16:50:20.691721-05:00"
 }
