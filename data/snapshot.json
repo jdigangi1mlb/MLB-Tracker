@@ -242,7 +242,7 @@
       },
       "b": {
         "team": "LAA",
-        "acquired": "TBD"
+        "acquired": "C/DH Moisés Ballesteros, RHP Mason McGwire"
       },
       "status": "VERIFIED",
       "sources": [
@@ -523,5 +523,5 @@
       "winner": ""
     }
   ],
-  "updated_at_ct": "2026-08-03T15:20:19.963860-05:00"
+  "updated_at_ct": "2026-08-03T15:30:16.696506-05:00"
 }
