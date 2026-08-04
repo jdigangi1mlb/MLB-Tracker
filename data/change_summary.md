@@ -1,5 +1,45 @@
 # MLB trade tracker changed
 
-Detected 83 trades from July 31 forward.
+Detected 53 trades from July 31 forward.
 
 ## New or changed entries
+- Aug. 3: MIL / COL — VERIFIED
+- Aug. 3: CHC / MIA — VERIFIED
+- Aug. 3: CWS / COL — VERIFIED
+- Aug. 3: PHI / NYM — VERIFIED
+- Aug. 3: MIA / COL — VERIFIED
+- Aug. 3: TOR / TEX — VERIFIED
+- Aug. 3: PIT / LAA — VERIFIED
+- Aug. 3: CWS / ATL — VERIFIED
+- Aug. 3: BOS / ATL — VERIFIED
+- Aug. 3: TB / BAL — VERIFIED
+- Aug. 3: STL / CIN — VERIFIED
+- Aug. 3: SD / PIT — VERIFIED
+- Aug. 3: BAL / MIA — UNVERIFIED - MLB ONLY
+- Aug. 3: ATL / LAA — VERIFIED
+- Aug. 3: PIT / MIA — VERIFIED
+- Aug. 3: LAD / TB — VERIFIED
+- Aug. 3: LAD / NYM — VERIFIED
+- Aug. 3: CIN / CLE — UNVERIFIED - MLB ONLY
+- Aug. 3: BAL / MIL — UNVERIFIED - MLB ONLY
+- Aug. 3: PHI / OAK — VERIFIED
+- Aug. 3: BAL / WSH — VERIFIED
+- Aug. 3: KC / PHI — VERIFIED
+- Aug. 2: ATL / SF — VERIFIED
+- Aug. 2: CWS / NYM — VERIFIED
+- Aug. 2: TOR / CHC — VERIFIED
+- Aug. 1: ATL / KC — VERIFIED
+- Aug. 1: PIT / NYY — VERIFIED
+- Aug. 1: MIL / CLE — VERIFIED
+- July 31: MIN / BAL — VERIFIED
+- Aug. 3: CLE / WSH — UNVERIFIED - CBS ONLY
+- Aug. 3: SD / DET — UNVERIFIED - CBS ONLY
+- Aug. 3: BOS / BAL — UNVERIFIED - CBS ONLY
+- Aug. 3: SD / SF — UNVERIFIED - CBS ONLY
+- Aug. 3: PHI / SF — UNVERIFIED - CBS ONLY
+- Aug. 3: TOR / LAA — UNVERIFIED - CBS ONLY
+- Aug. 2: CHC / TOR — UNVERIFIED - CBS ONLY
+- Aug. 2: NYY / WSH — UNVERIFIED - CBS ONLY
+- Aug. 2: TB / NYM — UNVERIFIED - CBS ONLY
+- Aug. 1: LAD / DET — UNVERIFIED - CBS ONLY
+- Aug. 1: CWS / SEA — UNVERIFIED - CBS ONLY
